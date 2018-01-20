@@ -1,0 +1,3 @@
+[submodule "TeamCode/src/main/java/org/firstinspires/ftc/teamcode"]
+	path = TeamCode/src/main/java/org/firstinspires/ftc/teamcode
+	url = https://joeworkman@github.com/bereanrobotics/teamcode
